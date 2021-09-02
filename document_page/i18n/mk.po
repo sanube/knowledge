@@ -194,7 +194,6 @@ msgstr "Историја на страница на документ"
 #. module: document_page
 #: model:ir.model,name:document_page.model_wizard_document_page_history_show_diff
 #, fuzzy
-#| msgid "Document Page"
 msgid "Document Page Show Diff"
 msgstr "Страница на документ"
 
@@ -544,7 +543,7 @@ msgid "Wizard Create Menu"
 msgstr ""
 
 #. module: document_page
-#: code:addons/document_page/models/document_page.py:128
+#: code:addons/document_page/models/document_page.py:129
 #, python-format
 msgid "You cannot create recursive categories."
 msgstr ""
